@@ -1,0 +1,20 @@
+{
+  "name": "forkify",
+  "version": "2.0.0",
+  "description": "Food Recipe Website",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 10 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.9.3",
+    "core-js": "^3.31.1",
+    "fractional": "^1.0.0",
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  }
+}
