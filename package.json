@@ -6,7 +6,7 @@
   "browserslist": "> 0.5%, last 10 versions, not dead",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build"
+    "build": "parcel build --no-scope-hoist"
   },
   "author": "",
   "license": "ISC",
